@@ -1,4 +1,4 @@
-[some link] (https://github.com/mahendra-s/CalculatorUsingScalaAkka/wiki/HelpPage)
+[some link](https://github.com/mahendra-s/CalculatorUsingScalaAkka/wiki/HelpPage)
 
 # CalculatorUsingScalaAkka
 
